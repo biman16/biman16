@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋! My name is Biman Ch. Das<h1><br><br><h3>Hey! Hope everything's going well for you 😊<br><br>Tech Enthusiast | Aspiring software Engineer | Open source contributor <br><br>I’m someone who believes in learning by building. Over the past few years, I’ve turned classroom concepts into working projects — from weather apps to full-stack systems — focusing not just on code, but on solving real problems cleanly. I enjoy exploring new technologies, improving things I’ve already built, and understanding how systems actually work behind the scenes. My goal is to keep growing into a developer who can think beyond syntax and create meaningful, user-focused solutions.</h3>
-
-
-<div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
