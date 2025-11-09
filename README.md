@@ -1,10 +1,5 @@
-<h2 align="center">Hi 👋! My name is Biman Ch. Das<br><br>Hey! Hope everything's going well for you 😊<br><br>Tech Enthusiast | Aspiring software Engineer | Open source contributor <br><br>I’m someone who believes in learning by building. Over the past few years, I’ve turned classroom concepts into working projects — from weather apps to full-stack systems — focusing not just on code, but on solving real problems cleanly. I enjoy exploring new technologies, improving things I’ve already built, and understanding how systems actually work behind the scenes. My goal is to keep growing into a developer who can think beyond syntax and create meaningful, user-focused solutions.</h2>
+<h1 align="center">Hi 👋! My name is Biman Ch. Das<h1><br><br><h3>Hey! Hope everything's going well for you 😊<br><br>Tech Enthusiast | Aspiring software Engineer | Open source contributor <br><br>I’m someone who believes in learning by building. Over the past few years, I’ve turned classroom concepts into working projects — from weather apps to full-stack systems — focusing not just on code, but on solving real problems cleanly. I enjoy exploring new technologies, improving things I’ve already built, and understanding how systems actually work behind the scenes. My goal is to keep growing into a developer who can think beyond syntax and create meaningful, user-focused solutions.</h3>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5qbTl6eG01YWVvMWRjd2Q3Nmp1NHJ1cmdrb3ZsajczdDFtam11eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J08r3aXHt0BDATrfyT/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/biman07/" target="_blank">
@@ -67,13 +61,3 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ibimaan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ibimaan&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
